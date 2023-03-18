@@ -1,6 +1,5 @@
----
-title: Welcome to my blog
----
+title: Welcome to my blog!
+
 Hey! I'm Leana Merin Ison
 
 About Me
